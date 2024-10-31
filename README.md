@@ -9,5 +9,7 @@ Examples of ARC puzzles:
 
 
 ## How to Run
-Run the cells in jupyter notebook file:
+Refer to jupyter notebook file:
+- Install the missing packages if needed, via pip
+- Run the cells in the notebook
 - Specify the number of puzzles you want to visualize through NUM_VISUALISATION_PUZZLES parameter
